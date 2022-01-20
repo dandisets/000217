@@ -29,7 +29,7 @@ id: DANDI:000217/draft
 identifier: DANDI:000217
 keywords: []
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000217/versions/draft/assets/
 name: Sniff-synchronized, gradient-guided olfactory search by freely moving mice --
