@@ -2,16 +2,19 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000217
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
-about: []
+about:
+- identifier: Olfactory Neuroscience
+  name: Olfactory Search in Mice
+  schemaKey: GenericType
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
-citation: Findley, Teresa (2022) Sniff-synchronized, gradient-guided olfactory search
-  by freely moving mice -- Behavioral Dataset (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000217/draft
+citation: Findley, Teresa; Matt Smear (2022) Sniff-synchronized, gradient-guided olfactory
+  search by freely moving mice -- Behavioral Dataset (Version draft) [Data set]. DANDI
+  archive. https://dandiarchive.org/dandiset/000217/draft
 contributor:
 - affiliation: []
   email: tmfindley15@gmail.com
@@ -19,6 +22,13 @@ contributor:
   name: Findley, Teresa
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  email: smear@uoregon.edu
+  includeInCitation: true
+  name: Matt Smear
+  roleName:
+  - dcite:ProjectLeader
   schemaKey: Person
 dateCreated: '2022-01-20T03:12:02.773640+00:00'
 description: 'This dataset contains the movement tracking, sniff recording, and trial
