@@ -25,23 +25,167 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Findley, Teresa; Matt Smear (2022) Sniff-synchronized, gradient-guided olfactory
-  search by freely moving mice -- Behavioral Dataset (Version draft) [Data set]. DANDI
-  archive. https://dandiarchive.org/dandiset/000217/draft
+citation: Findley, Teresa; David G Wyrick; Jennifer L Cramer; Morgan A Brown; Blake
+  Holcomb; Robin Attey; Dorian Yeh; Eric Monasevitch; Nelly Nouboussi; Isabelle Cullen;
+  Jeremea O Songco; Jared F King; Yashar Ahmadian; Matt Smear (2022) Sniff-synchronized,
+  gradient-guided olfactory search by freely moving mice -- Behavioral Dataset (Version
+  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000217/draft
 contributor:
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
   email: tmfindley15@gmail.com
+  identifier: 0000-0002-2050-4869
   includeInCitation: true
   name: Findley, Teresa
   roleName:
   - dcite:ContactPerson
+  - dcite:Author
+  - dcite:Researcher
   schemaKey: Person
-- affiliation: []
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  identifier: 0000-0001-8096-5766
+  includeInCitation: true
+  name: David G Wyrick
+  roleName:
+  - dcite:Author
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Jennifer L Cramer
+  roleName:
+  - dcite:Researcher
+  - dcite:DataCollector
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  email: morganallen@gmail.com
+  includeInCitation: true
+  name: Morgan A Brown
+  roleName:
+  - dcite:DataCollector
+  - dcite:Researcher
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Blake Holcomb
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Robin Attey
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Dorian Yeh
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Eric Monasevitch
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Nelly Nouboussi
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Isabelle Cullen
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Jeremea O Songco
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Jared F King
+  roleName:
+  - dcite:Author
+  - dcite:DataCollector
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
+  - identifier: https://ror.org/013meh722
+    name: University of Cambridge
+    schemaKey: Affiliation
+  identifier: 0000-0002-5942-0697
+  includeInCitation: true
+  name: Yashar Ahmadian
+  roleName:
+  - dcite:Author
+  - dcite:ProjectLeader
+  - dcite:Researcher
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/0293rh119
+    name: University of Oregon
+    schemaKey: Affiliation
   email: smear@uoregon.edu
+  identifier: 0000-0003-4689-388X
   includeInCitation: true
   name: Matt Smear
   roleName:
   - dcite:ProjectLeader
+  - dcite:ContactPerson
+  - dcite:Author
+  - dcite:Researcher
   schemaKey: Person
 dateCreated: '2022-01-20T03:12:02.773640+00:00'
 description: 'This dataset contains the movement tracking, sniff recording, and trial
