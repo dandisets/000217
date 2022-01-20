@@ -10,8 +10,21 @@ access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_015242
+    name: Neurodata Without Borders (NWB)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 2152038728
+  numberOfFiles: 1121
+  numberOfSubjects: 25
+  schemaKey: AssetsSummary
+  species:
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
+    schemaKey: SpeciesType
+  variableMeasured: []
 citation: Findley, Teresa; Matt Smear (2022) Sniff-synchronized, gradient-guided olfactory
   search by freely moving mice -- Behavioral Dataset (Version draft) [Data set]. DANDI
   archive. https://dandiarchive.org/dandiset/000217/draft
