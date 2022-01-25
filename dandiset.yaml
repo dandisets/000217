@@ -2,10 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000217
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
-about:
-- identifier: Olfactory Neuroscience
-  name: Olfactory Search in Mice
-  schemaKey: GenericType
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -25,9 +22,9 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured: []
-citation: Findley, Teresa; David G Wyrick; Jennifer L Cramer; Morgan A Brown; Blake
-  Holcomb; Robin Attey; Dorian Yeh; Eric Monasevitch; Nelly Nouboussi; Isabelle Cullen;
-  Jeremea O Songco; Jared F King; Yashar Ahmadian; Matt Smear (2022) Sniff-synchronized,
+citation: Findley, Teresa; Wyrick, David G; Cramer, Jennifer L; Brown, Morgan A; Holcomb,
+  Blake; Attey, Robin; Yeh, Dorian; Monasevitch, Eric; Nouboussi, Nelly; Cullen, Isabelle;
+  Songco, Jeremea O; King, Jared F; Ahmadian, Yashar; Smear, Matt (2022) Sniff-synchronized,
   gradient-guided olfactory search by freely moving mice -- Behavioral Dataset (Version
   draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000217/draft
 contributor:
@@ -50,7 +47,7 @@ contributor:
     schemaKey: Affiliation
   identifier: 0000-0001-8096-5766
   includeInCitation: true
-  name: David G Wyrick
+  name: Wyrick, David G
   roleName:
   - dcite:Author
   - dcite:Researcher
@@ -60,7 +57,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Jennifer L Cramer
+  name: Cramer, Jennifer L
   roleName:
   - dcite:Researcher
   - dcite:DataCollector
@@ -72,7 +69,7 @@ contributor:
     schemaKey: Affiliation
   email: morganallen@gmail.com
   includeInCitation: true
-  name: Morgan A Brown
+  name: Brown, Morgan A
   roleName:
   - dcite:DataCollector
   - dcite:Researcher
@@ -83,7 +80,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Blake Holcomb
+  name: Holcomb, Blake
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -93,7 +90,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Robin Attey
+  name: Attey, Robin
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -103,7 +100,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Dorian Yeh
+  name: Yeh, Dorian
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -113,7 +110,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Eric Monasevitch
+  name: Monasevitch, Eric
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -123,7 +120,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Nelly Nouboussi
+  name: Nouboussi, Nelly
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -133,7 +130,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Isabelle Cullen
+  name: Cullen, Isabelle
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -143,7 +140,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Jeremea O Songco
+  name: Songco, Jeremea O
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -153,7 +150,7 @@ contributor:
     name: University of Oregon
     schemaKey: Affiliation
   includeInCitation: true
-  name: Jared F King
+  name: King, Jared F
   roleName:
   - dcite:Author
   - dcite:DataCollector
@@ -167,7 +164,7 @@ contributor:
     schemaKey: Affiliation
   identifier: 0000-0002-5942-0697
   includeInCitation: true
-  name: Yashar Ahmadian
+  name: Ahmadian, Yashar
   roleName:
   - dcite:Author
   - dcite:ProjectLeader
@@ -180,7 +177,7 @@ contributor:
   email: smear@uoregon.edu
   identifier: 0000-0003-4689-388X
   includeInCitation: true
-  name: Matt Smear
+  name: Smear, Matt
   roleName:
   - dcite:ProjectLeader
   - dcite:ContactPerson
@@ -196,7 +193,7 @@ id: DANDI:000217/draft
 identifier: DANDI:000217
 keywords: []
 license:
-- spdx:CC-BY-4.0
+- spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000217/versions/draft/assets/
 name: Sniff-synchronized, gradient-guided olfactory search by freely moving mice --
