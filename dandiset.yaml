@@ -26,7 +26,7 @@ citation: Findley, Teresa; Wyrick, David G; Cramer, Jennifer L; Brown, Morgan A;
   Blake; Attey, Robin; Yeh, Dorian; Monasevitch, Eric; Nouboussi, Nelly; Cullen, Isabelle;
   Songco, Jeremea O; King, Jared F; Ahmadian, Yashar; Smear, Matt (2022) Sniff-synchronized,
   gradient-guided olfactory search by freely moving mice -- Behavioral Dataset (Version
-  draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000217/draft
+  0.220125.2004) [Data set]. DANDI archive. https://doi.org/10.48324/dandi.000217/0.220125.2004
 contributor:
 - affiliation:
   - identifier: https://ror.org/0293rh119
@@ -185,25 +185,39 @@ contributor:
   - dcite:Researcher
   schemaKey: Person
 dateCreated: '2022-01-20T03:12:02.773640+00:00'
+datePublished: '2022-01-25T20:04:04.560739+00:00'
 description: 'This dataset contains the movement tracking, sniff recording, and trial
   statistics for the dataset used in the publication: Sniff-synchronized, gradient-guided
   olfactory search by freely moving mice in eLife (Findley et al. 2021)'
+doi: 10.48324/dandi.000217/0.220125.2004
 ethicsApproval: []
-id: DANDI:000217/draft
+id: DANDI:000217/0.220125.2004
 identifier: DANDI:000217
 keywords: []
 license:
 - spdx:CC0-1.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000217/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000217/0.220125.2004/assets.yaml
 name: Sniff-synchronized, gradient-guided olfactory search by freely moving mice --
   Behavioral Dataset
 protocol: []
+publishedBy:
+  endDate: '2022-01-25T20:04:04.560739+00:00'
+  id: urn:uuid:a90e296d-85cc-439f-b2c2-5a9419c92a5a
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2022-01-25T20:04:04.560739+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:b705d890-ccd4-4b88-a909-8b08691da22c
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org/
 schemaKey: Dandiset
 schemaVersion: 0.6.2
 studyTarget: []
-url: https://dandiarchive.org/dandiset/000217/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000217/0.220125.2004
+version: 0.220125.2004
 wasGeneratedBy: []
